@@ -20,3 +20,15 @@ sqlparse==0.5.1
 typing_extensions==4.12.2
 tzdata==2024.2
 yarl==1.16.0
+asgiref==3.12.1
+Django==6.1.2
+django-cors-headers==4.9.0
+djangorestframework==3.18.3
+djangorestframework_simplejwt==5.5.1
+pillow==13.0.0
+PyJWT==2.15.1
+rest-framework-simplejwt==0.0.2
+sqlparse==0.6.0
+tzdata==2026.5
+gunicorn==26.2.0
+whitenoise==16.2.0
